@@ -1,0 +1,8 @@
+.idea
+
+__pycache__
+venv
+
+tolstoi-api/solving_services/recaptchav2/downloads/audios/
+
+tolstoi-api/solving_services/image_captcha/downloads/images/

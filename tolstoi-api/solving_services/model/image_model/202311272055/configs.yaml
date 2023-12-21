@@ -1,0 +1,9 @@
+batch_size: 32
+height: 50
+learning_rate: 0.0005
+max_text_length: 6
+model_path: cnn\image_model\models\202311272055
+train_epochs: 1000
+train_workers: 10
+vocab: yl1IQogEa7nbThv5ZR964DWsMCX20YGdqOkmiweUALzFxHptJSVj8Pc3BfrNuK
+width: 200
